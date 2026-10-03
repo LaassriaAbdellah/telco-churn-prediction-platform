@@ -1,0 +1,20 @@
+# Environnement virtuel Python
+venv/
+.venv/
+env/
+
+# Caches Python
+__pycache__/
+*.pyc
+
+# Fichiers temporaires Streamlit et IDE
+.streamlit/
+.vscode/
+.idea/
+
+# Téléchargements ou rapports temporaires
+downloads/
+*.pdf
+
+# Fichiers système
+.DS_Store
